@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="datanucleus-api-jdo-3.2.6">
+    <CLASSES>
+      <root url="jar://C:/Program Files (x86)/scala/lib/akka-actors.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala/lib/jline.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala/lib/scala-actors-migration.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala/lib/scala-actors.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala/lib/scala-compiler.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala/lib/scala-library.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala/lib/scala-reflect.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala/lib/scala-swing.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala/lib/scalap.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala/lib/typesafe-config.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
